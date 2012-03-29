@@ -30,8 +30,15 @@ Ext.define( 'senchaTalk.view.SFDC', {
 		},{
 			xtype: 'textareafield',
 			id: 'outputBox',
-			height: 300,
+			height: 20,
 			width: 300
+		},{
+			xtype: 'spacer',
+			height: 10
+		},{
+			xtype: 'panel',
+			layout: 'vbox',
+			id: 'resultsBox'
 		}]
 	}
 });
