@@ -1,0 +1,55 @@
+2012-03-29 00:51:15.605 Mobile Debug[90815:13403] reinitializePlugins
+2012-03-29 00:51:15.607 Mobile Debug[90815:13403] reinitializeWebView
+2012-03-29 00:51:15.624 Mobile Debug[90815:13403] configureWebViewFromSettings
+2012-03-29 00:51:15.634 Mobile Debug[90815:13403] loadStartPageIntoWebView
+2012-03-29 00:51:15.635 Mobile Debug[90815:13403] loading appURL: file://localhost/Users/proth/Library/Application%20Support/iPhone%20Simulator/5.0/Applications/22636B3C-5936-40B7-AF99-75BAB791DA22/Mobile%20Debug.app/www/bootstrap.html
+2012-03-29 00:51:15.639 Mobile Debug[90815:13403] resetAppState
+2012-03-29 00:51:15.640 Mobile Debug[90815:13403] shouldLogout: 0
+2012-03-29 00:51:15.641 Mobile Debug[90815:13403] SFSmartStorePlugin initWithWebView
+2012-03-29 00:51:15.641 Mobile Debug[90815:13403] SFSmartStore initWithStoreName: defaultStore
+2012-03-29 00:51:15.799 Mobile Debug[90815:13403] webViewDidFinishLoad: Loaded file:///Users/proth/Library/Application%20Support/iPhone%20Simulator/5.0/Applications/22636B3C-5936-40B7-AF99-75BAB791DA22/Mobile%20Debug.app/www/bootstrap.html
+2012-03-29 00:51:15.801 Mobile Debug[90815:13403] Device initialization: DeviceInfo = {"name":"iPad Simulator","uuid":"88F2D732-FB3E-5C0F-971A-F4808F8870F3","platform":"iPad Simulator","gap":"1.2.0","version":"5.0","connection":{"type":"wifi"}};
+2012-03-29 00:51:15.824 Mobile Debug[90815:13403] [INFO] jslog: onDeviceReady called: PhoneGap is ready.
+2012-03-29 00:51:15.825 Mobile Debug[90815:13403] [INFO] jslog: deviceIsOnline connType: wifi
+2012-03-29 00:51:15.826 Mobile Debug[90815:13403] [INFO] jslog: Device is ONLINE, OR app is not otherwise required to be online.
+2012-03-29 00:51:15.827 Mobile Debug[90815:13403] authenticate:withDict:
+2012-03-29 00:51:15.827 Mobile Debug[90815:13403] Available connection: 'wifi' 
+2012-03-29 00:51:15.933 Mobile Debug[90815:13403] SFOAuthCoordinator:authenticate: authenticating as 3MVG9Iu66FKeHhINkB1l7xt7kR8czFcCTUhgoA8Ol2Ltf1eYHOU4SqQRSEitYFDUpqRWcoQ2.dBv_a1Dyu5xa without refresh token on 'https://login.salesforce.com' ...
+2012-03-29 00:51:15.936 Mobile Debug[90815:13403] oauthCoordinator:willBeginAuthenticationWithView
+2012-03-29 00:51:15.938 Mobile Debug[90815:13403] SFOAuthCoordinator:webView:shouldStartLoadWithRequest: (navType=5): host=login.salesforce.com : path=/services/oauth2/authorize
+2012-03-29 00:51:15.945 Mobile Debug[90815:13403] SFOAuthCoordinator:webViewDidStartLoad: host=(null) : path=(null)
+2012-03-29 00:51:16.300 Mobile Debug[90815:13403] SFOAuthCoordinator:webView:shouldStartLoadWithRequest: (navType=5): host=login.salesforce.com : path=/setup/secur/RemoteAccessAuthorizationPage.apexp
+2012-03-29 00:51:16.423 Mobile Debug[90815:13403] SFOAuthCoordinator:webView:shouldStartLoadWithRequest: (navType=5): host=login.salesforce.com : path=/
+2012-03-29 00:51:16.425 Mobile Debug[90815:13403] SFOAuthCoordinator:webViewDidStartLoad: host=login.salesforce.com : path=/setup/secur/RemoteAccessAuthorizationPage.apexp
+2012-03-29 00:51:16.894 Mobile Debug[90815:13403] oauthCoordinator:didBeginAuthenticationWithView
+2012-03-29 00:51:48.272 Mobile Debug[90815:13403] SFOAuthCoordinator:webView:shouldStartLoadWithRequest: (navType=1): host=login.salesforce.com : path=/
+2012-03-29 00:51:48.273 Mobile Debug[90815:13403] SFOAuthCoordinator:webViewDidStartLoad: host=login.salesforce.com : path=/
+2012-03-29 00:51:48.828 Mobile Debug[90815:13403] SFOAuthCoordinator:webView:shouldStartLoadWithRequest: (navType=1): host=na12.salesforce.com : path=/secur/frontdoor.jsp
+2012-03-29 00:51:49.343 Mobile Debug[90815:13403] SFOAuthCoordinator:webView:shouldStartLoadWithRequest: (navType=5): host=na12.salesforce.com : path=/setup/secur/RemoteAccessAuthorizationPage.apexp
+2012-03-29 00:51:49.345 Mobile Debug[90815:13403] SFOAuthCoordinator:webViewDidStartLoad: host=na12.salesforce.com : path=/secur/frontdoor.jsp
+2012-03-29 00:51:51.323 Mobile Debug[90815:13403] SFOAuthCoordinator:webView:shouldStartLoadWithRequest: (navType=1): host=na12.salesforce.com : path=/_ui/identity/oauth/ui/AuthorizationPage
+2012-03-29 00:51:51.324 Mobile Debug[90815:13403] SFOAuthCoordinator:webViewDidStartLoad: host=na12.salesforce.com : path=/setup/secur/RemoteAccessAuthorizationPage.apexp
+2012-03-29 00:51:51.684 Mobile Debug[90815:13403] SFOAuthCoordinator:webView:shouldStartLoadWithRequest: (navType=5): host=(null) : path=/mobilesdk/detect/oauth/done
+2012-03-29 00:51:51.713 Mobile Debug[90815:13403] oauthCoordinatorDidAuthenticate for userId: 005U0000000gyiQ
+2012-03-29 00:51:51.714 Mobile Debug[90815:13403] addSidCookieForDomain: .salesforce.com
+2012-03-29 00:51:51.720 Mobile Debug[90815:13403] [INFO] jslog: loginSuccess
+2012-03-29 00:51:51.721 Mobile Debug[90815:13403] [INFO] jslog: fullAppUrl: index.html
+2012-03-29 00:51:51.790 Mobile Debug[90815:13403] webViewDidFinishLoad: Loaded file:///Users/proth/Library/Application%20Support/iPhone%20Simulator/5.0/Applications/22636B3C-5936-40B7-AF99-75BAB791DA22/Mobile%20Debug.app/www/index.html
+2012-03-29 00:51:51.791 Mobile Debug[90815:13403] Setting file:///Users/proth/Library/Application%20Support/iPhone%20Simulator/5.0/Applications/22636B3C-5936-40B7-AF99-75BAB791DA22/Mobile%20Debug.app/www/index.html as the 'home page' URL for this app.
+2012-03-29 00:51:51.798 Mobile Debug[90815:13403] Device initialization: DeviceInfo = {"name":"iPad Simulator","uuid":"88F2D732-FB3E-5C0F-971A-F4808F8870F3","platform":"iPad Simulator","gap":"1.2.0","version":"5.0","connection":{"type":"wifi"}};
+2012-03-29 00:51:51.823 Mobile Debug[90815:13403] [INFO] jslog: onDeviceReady: PhoneGap ready
+2012-03-29 00:51:51.824 Mobile Debug[90815:13403] getAuthCredentials:withDict: arguments: (
+    "com.salesforce.oauth0"
+) options: (null)
+2012-03-29 00:51:51.824 Mobile Debug[90815:13403] callbackId: com.salesforce.oauth0
+2012-03-29 00:51:51.827 Mobile Debug[90815:13403] lastRefreshCompleted 0.11 seconds ago
+2012-03-29 00:51:51.829 Mobile Debug[90815:13403] [INFO] jslog: salesforceSessionRefreshed
+2012-03-29 00:51:56.247 Mobile Debug[90815:13403] [INFO] jslog: link_fetch_device_contacts clicked
+2012-03-29 00:51:56.251 Mobile Debug[90815:13403] findCallback string: var temp = navigator.contacts._findCallback({"status":1,"message":[],"keepCallback":false});
+PhoneGap.callbackSuccess('com.phonegap.contacts1',temp);
+2012-03-29 00:51:56.257 Mobile Debug[90815:13403] [INFO] jslog: onSuccessDevice: received 0 contacts
+2012-03-29 00:51:57.825 Mobile Debug[90815:13403] [INFO] jslog: link_fetch_sfdc_contacts clicked
+2012-03-29 00:51:58.048 Mobile Debug[90815:13403] [INFO] jslog: onSuccessSfdcContacts: received 21 contacts
+2012-03-29 00:52:01.101 Mobile Debug[90815:13403] [INFO] jslog: link_fetch_sfdc_accounts clicked
+2012-03-29 00:52:01.293 Mobile Debug[90815:13403] [INFO] jslog: onSuccessSfdcAccounts: received 13 accounts
+
