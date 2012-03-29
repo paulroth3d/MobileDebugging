@@ -107,8 +107,11 @@
                     fullAppUrl = SFHybridApp.buildAppUrl(oauthCredentials.instanceUrl, startData.appStartUrl);
                 }
             }
+            
             SFHybridApp.logToConsole("fullAppUrl: " + fullAppUrl);
-            SFHybridApp.loadUrl(fullAppUrl);
+            //SFHybridApp.loadUrl(fullAppUrl);
+            
+            window.location = 'index.html';
         }
             
         /**

@@ -19,7 +19,7 @@
 	<key>ExternalHosts</key>
 	<array>
 		<string>staging.</string>
-		<string>172.16.1.38</string>
+		<string>10.1.4.37</string>
 		<string>*.darkbluestudios.com</string>
 		<string>*.force.com</string>
 		<string>*.salesforce.com</string>
